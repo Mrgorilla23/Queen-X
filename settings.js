@@ -16,9 +16,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['94719225807'] //ur owner number
-global.ownername = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur owner name
+global.ownername = "m̲r̲ g̲o̲r̲i̲l̲l̲q" //ur owner name
 global.ytname = "CYBER JOHN" //ur yt chanel name
-global.socialm = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur github or insta name
+global.socialm = "m̲r̲g̲o̲r̲i̲l̲l̲a̲" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
@@ -31,9 +31,9 @@ global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme u
 global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur sticker watermark packname
-global.author = "ＱＵＥＥＮ-Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
-global.wm = "ＱＵＥＥＮ-Ｘ ＢＯＴ." //ur watermark
+global.packname = "g̲o̲r̲i̲l̲l̲a̲ o̲k̲i̲" //ur sticker watermark packname
+global.author = "g̲o̲r̲i̲l̲l̲a̲ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
+global.wm = "𝓰𝓸𝓻𝓲𝓵𝓵𝓪Ｘ ＢＯＴ." //ur watermark
 
 // Other
 global.sessionName = 'session'
